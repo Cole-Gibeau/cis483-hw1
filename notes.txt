@@ -1,0 +1,1 @@
+Created an HTML page and practiced making Git commits.
